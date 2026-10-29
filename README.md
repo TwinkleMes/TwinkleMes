@@ -1,151 +1,76 @@
-# Hi, I'm Twinkle Meska 👋
+# Twinkle Meska
+### Aspiring Cloud Data Engineer | B.Tech CSE (Software Engineering), 2027
 
-### Aspiring Cloud Data Engineer | Software Engineering Student | 2027
+Computer Science student at Jain (Deemed-to-be) University with a foundation in software development and hands-on practice with cloud platforms and data engineering tools. Interested in building ETL workflows, processing structured data, and developing reliable cloud-based solutions.
 
-I'm a Computer Science (Software Engineering) student at **Jain (Deemed-to-be) University**, interested in building reliable data pipelines, working with cloud platforms, and transforming raw data into useful insights.
+**Current focus:** AWS · Azure · Python · SQL · Linux · PySpark
 
-My current learning focuses on **AWS, Azure, SQL, Python, Linux, and PySpark**, alongside my software development background. I enjoy learning by building projects, practising cloud labs, troubleshooting errors, and documenting what I learn.
+## Technical Skills
 
-- 🎓 **Degree:** B.Tech in Computer Science (Software Engineering), expected 2027
-- ☁️ **Current focus:** Cloud data engineering and ETL workflows
-- 🛠️ **Learning through:** Hands-on labs, assignments, and practical projects
-- 🌱 **Currently exploring:** Google Cloud Platform (GCP)
-- 🎯 **Goal:** Build practical skills in cloud infrastructure, data processing, and scalable data solutions
+- **Cloud:** AWS (S3, IAM, EC2, Glue, Lambda, Athena, Step Functions); Azure (Data Factory, Data Lake Storage Gen2, Databricks)
+- **Data Engineering:** ETL fundamentals, data ingestion, CSV/JSON/Parquet, data catalog concepts, data transformation
+- **Programming:** Python, SQL, Java, JavaScript
+- **Big Data:** Apache Spark and PySpark fundamentals
+- **Systems:** Linux commands, Bash fundamentals, networking basics
+- **Development:** React, Node.js, Express.js, REST APIs, MongoDB, MySQL, Git, GitHub
 
----
+## Projects
 
-## ☁️ Cloud & Data Engineering Toolkit
+### CampusXchange — Digital Marketplace
+**React · Node.js · Express.js · MongoDB · JWT**
 
-### Cloud Platforms
+- Developed a college-focused marketplace concept for buying, selling, and exchanging items.
+- Worked on authentication, REST APIs, listings, and category-based browsing.
+- Explored AI-assisted listing creation and natural-language search features.
 
-**Amazon Web Services (AWS)**
+### AI-Powered Interview Preparation Platform
+**React · Express.js · MongoDB · Google Gemini API**
 
-- Amazon S3 — object storage and data organisation
-- AWS IAM — users, roles, and access permissions
-- Amazon EC2 — virtual machines and Linux-based practice
-- AWS Glue — crawlers, Data Catalog, and ETL job practice
-- AWS Lambda — serverless computing fundamentals
-- AWS Step Functions — workflow orchestration practice
-- Amazon Athena — querying data stored in Amazon S3
+- Built features for resume and job-description analysis and personalised interview preparation.
+- Implemented structured AI responses, authentication, and API integration.
+- Worked on skill-gap insights, preparation roadmaps, and PDF generation.
 
-**Microsoft Azure**
+## Cloud Practice
 
-- Azure Data Factory — data integration and pipeline practice
-- Azure Data Lake Storage Gen2 — storage concepts and configuration
-- Azure Databricks — workspace and external-location practice
-- Azure Virtual Machines — Linux virtual machine fundamentals
+Building practical experience through AWS and Azure labs, with a focus on:
 
-**Google Cloud Platform (GCP)**
+- **AWS:** S3 storage, Glue crawlers and ETL, Athena queries, Lambda, and Step Functions.
+- **Azure:** Data Factory pipelines, Data Lake Storage Gen2, and Databricks.
+- **Data processing:** Python, SQL, PySpark DataFrames, filtering, and data-quality operations.
+- **Systems:** Linux commands and Bash scripting.
 
-- Currently learning cloud fundamentals and exploring the GCP ecosystem.
+I aim to document completed labs with implementation details, architecture, screenshots, and results. I am also beginning to explore Google Cloud Platform (GCP).
 
-### Data Engineering & Processing
+## Experience
 
-- **ETL:** Extract, transform, and load fundamentals
-- **Data formats:** CSV, JSON, and Parquet
-- **Data discovery:** Crawlers, metadata, and data catalog concepts
-- **Big data:** Apache Spark and PySpark fundamentals
-- **Data workflows:** Source-to-target processing and pipeline concepts
-- **Data quality:** Filtering, handling missing values, and removing duplicates
+**Maincrafts — Web Development Intern** | Remote  
+*Feb 2026 – Apr 2026*
 
-### Programming, Querying & Systems
+- Developed responsive landing pages and portfolio interfaces using HTML and CSS.
+- Applied mobile-first design and used GitHub for version control and deployment.
 
-- **Languages:** Python, SQL, Java, JavaScript
-- **Data processing:** PySpark DataFrames, transformations, and filtering
-- **Databases:** MySQL, MongoDB
-- **Operating systems:** Linux commands, file operations, and permissions
-- **Scripting:** Bash fundamentals
-- **Developer tools:** Git, GitHub, VS Code, Postman
+**MotionCut — Web Development Intern** | Remote  
+*Jan 2025 – Mar 2025*
 
----
+- Developed responsive web pages using HTML, CSS, JavaScript, and Node.js.
+- Incorporated feedback through code reviews and improved page implementations.
 
-## 🚀 Projects
+## Education
 
-### 1. CampusXchange — Digital Marketplace
+**Jain (Deemed-to-be) University**  
+B.Tech, Computer Science (Software Engineering) | Expected 2027  
+CGPA: 8.5/10
 
-**Tech stack:** React, Node.js, Express.js, MongoDB, JWT
-
-A college-focused digital marketplace concept designed to help students buy, sell, and exchange items.
-
-- Developed marketplace functionality for listings and category-based browsing.
-- Worked with REST APIs, authentication, and MongoDB integration.
-- Explored AI-assisted features for listing creation, price recommendations, and natural-language search.
-
-### 2. AI-Powered Interview Preparation Platform
-
-**Tech stack:** React, Express.js, MongoDB, Google Gemini API
-
-A platform designed to help candidates prepare for interviews using resume and job-description analysis.
-
-- Generates personalised technical and behavioural interview questions.
-- Provides resume-match insights, skill-gap analysis, and a preparation roadmap.
-- Uses structured AI responses, REST APIs, and authentication.
-- Includes PDF text extraction and interview-preparation document generation.
-
-### ☁️ Cloud Data Engineering Labs
-
-I am building my cloud portfolio through practical exercises in AWS and Azure. My current practice areas include:
-
-- Amazon S3 storage and static website hosting
-- AWS Glue crawlers, Data Catalog, and ETL workflows
-- Querying cloud data with Amazon Athena
-- AWS Lambda and Step Functions fundamentals
-- Azure Data Factory pipelines and data lake concepts
-- Azure Databricks and PySpark data processing
-- Linux commands and Bash scripting
-
-I document each lab with its objective, implementation steps, relevant configuration, screenshots, and lessons learned as the work progresses.
-
-> These are learning and practice areas; I will mark individual labs as completed only after verifying the implementation.
-
----
-
-## 💻 Development Experience
-
-### Maincrafts — Web Development Intern
-*Remote | February 2026 – April 2026*
-
-- Built responsive landing pages and portfolio interfaces using HTML and CSS.
-- Applied mobile-first design principles across different screen sizes.
-- Used GitHub for version control and deployment workflows.
-
-### MotionCut — Web Development Intern
-*Remote | January 2025 – March 2025*
-
-- Developed and deployed responsive web pages using HTML, CSS, JavaScript, and Node.js.
-- Worked on multiple pages and incorporated feedback through code reviews.
-
----
-
-## 📚 Learning Roadmap
-
-| Area | Current focus |
-|---|---|
-| AWS | S3, IAM, EC2, Glue, Lambda, Athena, Step Functions |
-| Azure | Data Factory, Data Lake Storage Gen2, Databricks |
-| Programming | Python, SQL, Java |
-| Big data | Apache Spark and PySpark |
-| Systems | Linux, Bash, networking fundamentals |
-| GCP | Exploring cloud fundamentals |
-
-My next goal is to connect these concepts into **end-to-end data engineering projects** that demonstrate data ingestion, transformation, storage, querying, and workflow orchestration.
-
----
-
-## 🏅 Certifications
+## Certifications
 
 - Agile Software Development
 - Introduction to Operating Systems
 - Boosting Productivity with AI Tools
 
----
+## Connect
 
-## 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/twinkle-meska-aa254338a)
+- [GitHub](https://github.com/TwinkleMes)
+- [Email](mailto:twinklemeska174@gmail.com)
 
-- **GitHub:** [@TwinkleMes](https://github.com/TwinkleMes)
-- **LinkedIn:** [Twinkle Meska](https://www.linkedin.com/in/twinkle-meska-aa254338a)
-- **Email:** [twinklemeska174@gmail.com](mailto:twinklemeska174@gmail.com)
-
----
-
-*Learning consistently, building practically, and growing toward cloud data engineering.*
+*Learning by building. Focused on cloud, data, and scalable software solutions.*
